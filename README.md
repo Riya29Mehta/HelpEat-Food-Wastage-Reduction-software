@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Donation Management System
 
 A web application which is useful for management of food donation and collection activities.  
@@ -122,3 +123,6 @@ For running the application:
 
 - Email: aayush5521186@gmail.com
 - Linkedin: https://www.linkedin.com/in/aayush12/
+=======
+# HelpEat-Food-Wastage-Reduction-software
+>>>>>>> 135df2ad3c6d6402830d4dc118c17a710cd24eb2
